@@ -3,7 +3,8 @@
 
 # Trabajo Práctico Final: integración del contenido <br>
 <h3> UTN -> Introducción</h3><br>
-Este proyecto se basa en los temas vistos durante la cursada de laboratorio 2, aplicando los temas vistos principalmente recursividad, estructuras, estructuras compuestas y arboles binarios. 
+Este proyecto se basa en los temas vistos durante la cursada de laboratorio 2, aplicando los temas vistos principalmente recursividad, estructuras, estructuras compuestas y arboles binarios. <br>
+Para cumplir esto, creamos una aplicación de concesionaria donde se una un CRUD de empleados y un CRUD de autos.
 <hr>
 <br>
 
